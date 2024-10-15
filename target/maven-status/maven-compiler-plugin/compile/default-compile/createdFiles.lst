@@ -1,0 +1,4 @@
+beans/User.class
+beans/RegistrationBean.class
+ru/school/primefaces_jsf/JakartaRestConfiguration.class
+ru/school/primefaces_jsf/resources/JakartaEE10Resource.class
